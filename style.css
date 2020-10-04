@@ -8,6 +8,7 @@
     height: 200px;
     border: 1px solid black;
     margin: auto;
+    background-color:  rgb(179, 176, 176);
 }
 #character{
     width: 20px;
